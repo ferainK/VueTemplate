@@ -5,7 +5,7 @@
 $ npx degit ferainK/webpack.git [폴더명]
 ```
 ## 1) 환경설정
-> VS Code 확장 프로그램 `vetur` 설치
+> VS Code 확장 프로그램 `vetur` 설치 <br>
 > 패키지 설치
 > ```c
 > $npm i
